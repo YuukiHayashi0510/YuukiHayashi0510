@@ -1,8 +1,3 @@
-# Profile
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YuukiHayashi0510&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuukiHayashi0510&layout=compact" />
-
 # Portfolio
 ## プログラミングスクールでメンター業務
 2021/10 ~ 現在
@@ -117,3 +112,8 @@ Media Do主催のハッカソン型インターンシップに参加
 - Docker
 - AWS EC2 RDS
 - MySQL
+
+# Profile
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=YuukiHayashi0510&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuukiHayashi0510&layout=compact" />
