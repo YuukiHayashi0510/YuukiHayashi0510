@@ -50,6 +50,29 @@ Here are some ideas to get you started:
   - Firestore
 - SlackAPI
 
+## 23株式会社
+2021/12 ~ 現在
+
+病院の管理システム、LINEBot、ワクチン予約システムの開発
+
+使用技術
+- React
+- TypeScript
+- jQuery
+- Webpack
+- Sass
+- Firebase
+
+## Media Do Tech Internship 2022
+Media Do主催のハッカソン型インターンシップに参加
+
+2022/9/8 ~ 9/14
+
+開発プロダクト名：NiziChain
+
+[詳細を記したドキュメント](https://docs.google.com/document/d/1q-j-IU6PqBysoziZjvimmDOneVOvzxKq58JakaXv2ZE/edit?usp=sharing)
+
+
 ## 株式会社UKIYO create エンジニアインターン
 2022/9~ 現在
 
@@ -80,15 +103,13 @@ Here are some ideas to get you started:
 6. Vercel
 7. SlackAPI
 
-## 23株式会社
-2021/12 ~ 現在
+## 大規模サービス構築プログラム「Sunrise」
+2022/10 ~ 2022/11
 
-病院の管理システム、LINEBot、ワクチン予約システムの開発
+株式会社CARTA HOLDINGS主催のプログラムに参加
 
 使用技術
-- React
-- TypeScript
-- jQuery
-- Webpack
-- Sass
-- Firebase
+- Go
+- Docker
+- AWS EC2 RDS
+- MySQL
