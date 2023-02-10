@@ -6,12 +6,25 @@
 2. 九州・四国・中国地方支部のコース責任者などを経験
 3. 拠点内で利用するアプリの開発
 
+### メンター業務内容
+
 - Slack
   - テキストコミュニケーション
   - SlackAPI
 - Google Apps
   - GAS
 - 組織マネジメント経験
+- Webサービス開発支援
+  - Rails
+  - JavaScript
+  - HTML/CSS
+  - Sass
+  - BootStrap
+- AI開発支援
+  - Python
+  - Flask
+  - Keras
+
 
 ### 拠点内で利用するアプリの開発
 2022/12 ~ 現在
@@ -43,6 +56,7 @@
 - HTML/CSS
 - Sass
 - Firebase
+- BootStrap
 
 ## Media Do Tech Internship 2022
 Media Do主催のハッカソン型インターンシップに参加
