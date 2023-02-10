@@ -1,18 +1,3 @@
-<!--
-**YuukiHayashi0510/YuukiHayashi0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Profile
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=YuukiHayashi0510&show_icons=true" />
@@ -69,6 +54,25 @@ Media Do主催のハッカソン型インターンシップに参加
 2022/9/8 ~ 9/14
 
 開発プロダクト名：NiziChain
+
+使用技術
+- フロントエンド
+  - Next.js
+  - Material-UI
+  - TypeScript
+  - TailwindCSS
+  - Render.com
+- バックエンド
+  - Rails
+  - Docker
+  - MySQL
+  - Heroku
+- ブロックチェーン
+  - Solidity
+  - Ethereum
+  - Hardhat
+  - Metamask
+
 
 [詳細を記したドキュメント](https://docs.google.com/document/d/1q-j-IU6PqBysoziZjvimmDOneVOvzxKq58JakaXv2ZE/edit?usp=sharing)
 
