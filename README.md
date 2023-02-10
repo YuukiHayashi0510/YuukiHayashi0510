@@ -40,6 +40,7 @@
 - TypeScript
 - jQuery
 - Webpack
+- HTML/CSS
 - Sass
 - Firebase
 
