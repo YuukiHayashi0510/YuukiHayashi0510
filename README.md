@@ -89,24 +89,27 @@ Media Do主催のハッカソン型インターンシップに参加
 [詳細を記したドキュメント](https://docs.google.com/document/d/1q-j-IU6PqBysoziZjvimmDOneVOvzxKq58JakaXv2ZE/edit?usp=sharing)
 
 
-## 株式会社UKIYO create エンジニアインターン
+## 株式会社UKIYOcreate エンジニアインターン
 2022/9~ 現在
 
 1. MAツールの作成
 2. LPの作成
 
 使用技術
-1. Rails
-2. Nest.js
 3. React
 4. Next.js
 5. TypeScript
 6. Material-UI
 7. Styled-component
 8. TailwindCSS
+12. Storybook
+13. Chromatic
+1. Rails
+2. Nest.js
+14. OpenAI API
 10. Vercel
 11. Heroku
-12. Storybook
+15. GCP
 
 ## アルバイト　日報等作成アプリ開発
 2022/10~ 2023/03
@@ -140,6 +143,8 @@ Media Do主催のハッカソン型インターンシップに参加
 使用技術
 - Flutter / Dart
 - Next.js / TypeScript
+- TailwindCSS
+- ChakraUI
 - Go / Ent
 - GraphQL
 - PostgreSQL
