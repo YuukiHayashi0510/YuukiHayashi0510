@@ -1,9 +1,9 @@
 # Portfolio
 ## プログラミングスクールでメンター業務
-2021/10 ~ 現在
+2021/10 ~ 2023/07
 
 1. 20人以上の受講生のオリジナルプロダクト開発を支援
-2. 九州・四国・中国地方支部のコース責任者などを経験
+2. 九州・中四国地方支部のコース責任者などを経験
 3. 拠点内で利用するアプリの開発
 
 - Slack
@@ -22,10 +22,14 @@
   - Python
   - Flask
   - Keras
+- Webフロント開発支援
+  -  Vue
+  -  JavaScript
+  -  Firebase
 
 
 ### 拠点内で利用するアプリの開発
-2022/12 ~ 現在
+2022/12 ~ 2023/05
 
 メンターの日報、受講生の質問等を管理するWebアプリ
 
@@ -102,9 +106,10 @@ Media Do主催のハッカソン型インターンシップに参加
 8. TailwindCSS
 10. Vercel
 11. Heroku
+12. Storybook
 
 ## アルバイト　日報等作成アプリ開発
-2022/10~ 現在
+2022/10~ 2023/03
 
 使用技術
 1. Next.js
@@ -125,6 +130,21 @@ Media Do主催のハッカソン型インターンシップに参加
 - Docker
 - AWS EC2 RDS
 - MySQL
+- Makefile
+
+## 株式会社Sally エンジニアインターン
+2023/04 ~ 現在
+
+マーダーミステリーアプリUzuの開発
+
+使用技術
+- Flutter / Dart
+- Next.js / TypeScript
+- Go / Ent
+- GraphQL
+- PostgreSQL
+- MongoDB
+- Docker
 
 # Profile
 ## Stats
