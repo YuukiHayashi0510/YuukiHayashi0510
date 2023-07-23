@@ -96,7 +96,8 @@ Media Do主催のハッカソン型インターンシップに参加
 2. LPの作成
 
 使用技術
-3. React
+
+1. React
 4. Next.js
 5. TypeScript
 6. Material-UI
