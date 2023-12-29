@@ -26,6 +26,7 @@
 2022/12 ~ 2023/05
 
 メンターの日報、受講生の質問等を管理するWebアプリ
+[公開できる範囲でのリポジトリ](https://github.com/YuukiHayashi0510/question-app)
 
 使用技術
 - Next.js
