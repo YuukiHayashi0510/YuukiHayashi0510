@@ -14,19 +14,13 @@
 - 組織マネジメント経験
 - Webサービス開発支援
   - Rails
-  - JavaScript
-  - HTML/CSS
-  - Sass
-  - BootStrap
+  - HTML/CSS, Sass, JavaScript
 - AI開発支援
-  - Python
+  - Python, Keras
   - Flask
-  - Keras
 - Webフロント開発支援
-  -  Vue
-  -  JavaScript
+  -  Vue.js
   -  Firebase
-
 
 ### 拠点内で利用するアプリの開発
 2022/12 ~ 2023/05
@@ -35,30 +29,23 @@
 
 使用技術
 - Next.js
-- React
-- Material-UI
 - TypeScript
 - TailwindCSS
 - Firebase
-  - Hosting
-  - Authentication
-  - Firestore
 - SlackAPI
 
 ## 23株式会社
 2021/12 ~ 現在
 
-病院の管理システム、LINEBot、ワクチン予約システムの開発
+病院の管理システム、LINEBot、ワクチン予約システムの開発, 観光ガイドアプリ
 
 使用技術
 - React
 - TypeScript
-- jQuery
 - Webpack
-- HTML/CSS
-- Sass
+- HTML/CSS, Sass , jQuery
 - Firebase
-- BootStrap
+- Flutter/Dart
 
 ## Media Do Tech Internship 2022
 Media Do主催のハッカソン型インターンシップに参加
@@ -97,16 +84,14 @@ Media Do主催のハッカソン型インターンシップに参加
 
 使用技術
 
-1. React
 4. Next.js
 5. TypeScript
-6. Material-UI
 7. Styled-component
 8. TailwindCSS
-12. Storybook
-13. Chromatic
+12. Storybook, Chromatic
 1. Rails
-2. Nest.js
+2. NestJS
+3. Flask
 14. OpenAI API
 10. Vercel
 11. Heroku
@@ -117,7 +102,6 @@ Media Do主催のハッカソン型インターンシップに参加
 
 使用技術
 1. Next.js
-2. React
 3. TypeScript
 4. Material-UI
 5. TailwindCSS
