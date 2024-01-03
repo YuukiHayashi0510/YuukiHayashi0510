@@ -9,18 +9,16 @@
 - Slack
   - テキストコミュニケーション
   - SlackAPI
-- Google Apps
-  - GAS
+- Google App Script
 - 組織マネジメント経験
 - Webサービス開発支援
   - Rails
   - HTML/CSS, Sass, JavaScript
+  - Vue.js
+  - Firebase
 - AI開発支援
-  - Python, Keras
-  - Flask
-- Webフロント開発支援
-  -  Vue.js
-  -  Firebase
+  - Tensorflow
+  - Python, Flask
 
 ### 拠点内で利用するアプリの開発
 2022/12 ~ 2023/05
@@ -29,8 +27,7 @@
 [公開できる範囲でのリポジトリ](https://github.com/YuukiHayashi0510/question-app)
 
 使用技術
-- Next.js
-- TypeScript
+- Next.js / TypeScript
 - TailwindCSS
 - Firebase
 - SlackAPI
@@ -43,8 +40,7 @@
 使用技術
 - React
 - TypeScript
-- Webpack
-- HTML/CSS, Sass , jQuery
+- HTML/CSS, Sass, jQuery
 - Firebase
 - Flutter/Dart
 
@@ -57,9 +53,8 @@ Media Do主催のハッカソン型インターンシップに参加
 
 使用技術
 - フロントエンド
-  - Next.js
+  - Next.js / TypeScript
   - Material-UI
-  - TypeScript
   - TailwindCSS
   - Render.com
 - バックエンド
@@ -73,7 +68,6 @@ Media Do主催のハッカソン型インターンシップに参加
   - Hardhat
   - Metamask
 
-
 [詳細を記したドキュメント](https://docs.google.com/document/d/1q-j-IU6PqBysoziZjvimmDOneVOvzxKq58JakaXv2ZE/edit?usp=sharing)
 
 
@@ -85,8 +79,7 @@ Media Do主催のハッカソン型インターンシップに参加
 
 使用技術
 
-4. Next.js
-5. TypeScript
+4. Next.js / TypeScript
 7. Styled-component
 8. TailwindCSS
 12. Storybook, Chromatic
@@ -102,12 +95,9 @@ Media Do主催のハッカソン型インターンシップに参加
 2022/10~ 2023/03
 
 使用技術
-1. Next.js
-3. TypeScript
+1. Next.js / TypeScript
 4. Material-UI
 5. TailwindCSS
-6. Vercel
-7. SlackAPI
 
 ## 大規模サービス構築プログラム「Sunrise」
 2022/10 ~ 2022/11
