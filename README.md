@@ -6,6 +6,9 @@
 2. 九州・中四国地方支部のコース責任者などを経験
 3. 拠点内で利用するアプリの開発
 
+<details>
+  <summary>具体的な経験</summary>
+  
 - Slack
   - テキストコミュニケーション
   - SlackAPI
@@ -19,11 +22,14 @@
 - AI開発支援
   - Tensorflow
   - Python, Flask
+</details>
 
-### 拠点内で利用するアプリの開発
-2022/12 ~ 2023/05
+
+<details>
+  <summary>拠点内で利用するアプリの開発 | 2022/12 ~ 2023/05</summary>
 
 メンターの日報、受講生の質問等を管理するWebアプリ
+
 [公開できる範囲でのリポジトリ](https://github.com/YuukiHayashi0510/question-app)
 
 使用技術
@@ -32,17 +38,24 @@
 - Firebase
 - SlackAPI
 
+  
+</details>
+
 ## 23株式会社
 2021/12 ~ 現在
 
 病院の管理システム、LINEBot、ワクチン予約システムの開発, 観光ガイドアプリ
 
-使用技術
+<details>
+  <summary>使用技術</summary>
+
 - React
 - TypeScript
 - HTML/CSS, Sass, jQuery
 - Firebase
 - Flutter/Dart
+</details>
+
 
 ## Media Do Tech Internship 2022
 Media Do主催のハッカソン型インターンシップに参加
@@ -51,7 +64,10 @@ Media Do主催のハッカソン型インターンシップに参加
 
 開発プロダクト名：NiziChain
 
-使用技術
+
+<details>
+  <summary>使用技術</summary>
+
 - フロントエンド
   - Next.js / TypeScript
   - Material-UI
@@ -67,6 +83,9 @@ Media Do主催のハッカソン型インターンシップに参加
   - Ethereum
   - Hardhat
   - Metamask
+  
+</details>
+
 
 [詳細を記したドキュメント](https://docs.google.com/document/d/1q-j-IU6PqBysoziZjvimmDOneVOvzxKq58JakaXv2ZE/edit?usp=sharing)
 
@@ -77,7 +96,8 @@ Media Do主催のハッカソン型インターンシップに参加
 1. MAツールの作成
 2. LPの作成
 
-使用技術
+<details>
+  <summary>使用技術</summary>
 
 4. Next.js / TypeScript
 7. Styled-component
@@ -90,6 +110,9 @@ Media Do主催のハッカソン型インターンシップに参加
 10. Vercel
 11. Heroku
 15. GCP
+
+</details>
+
 
 ## アルバイト　日報等作成アプリ開発
 2022/10~ 2023/03
@@ -111,22 +134,28 @@ Media Do主催のハッカソン型インターンシップに参加
 - MySQL
 - Makefile
 
-## 株式会社Sally エンジニアインターン・副業
+## 株式会社Sally エンジニアインターン
 2023/04 ~ 2024/03　インターン
-2024/04 ~ 副業
 
 マーダーミステリーアプリUzuの開発
 
-使用技術
+<details>
+  <summary>使用技術</summary>
+
 - Flutter / Dart
 - Next.js / TypeScript
 - TailwindCSS
 - ChakraUI
 - Go / Ent
+- gRPC / protocol-buffers
 - GraphQL
 - PostgreSQL
 - MongoDB
 - Docker
+
+</details>
+
+
 
 # Profile
 ## Stats
