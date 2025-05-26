@@ -6,6 +6,10 @@
 
 
 ## Stats
+
+[![Contributions](https://badgen.org/img/qiita/yuuki-h/contributions?style=for-the-badge)](https://qiita.com/yuuki-h)
+[![Likes](https://badgen.org/img/zenn/rinrin_yuuki/likes?style=for-the-badge)](https://zenn.dev/rinrin_yuuki)
+
 <p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=YuukiHayashi0510&show_icons=true&theme=transparent" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuukiHayashi0510&layout=compact&theme=transparent" />
